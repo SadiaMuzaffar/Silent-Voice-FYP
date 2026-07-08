@@ -19,7 +19,7 @@ A wearable glove that translates American Sign Language (ASL) hand gestures into
 | 5x Flex Sensors | One per finger, measures finger bend |
 | MPU6050 IMU | Wrist-mounted, measures hand orientation and movement |
 | HC-05 Bluetooth Module | Sends sensor data to the mobile app |
-| Arduino UNO | Reads sensors and controls data transmission |
+| Arduino nano | Reads sensors and controls data transmission |
 
 Full wiring details and pin mapping are documented separately in the Arduino folder.
 
